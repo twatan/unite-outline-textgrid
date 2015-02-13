@@ -1,5 +1,5 @@
 "=============================================================================
-" File: autoload/unite/sources/outline/defaults/textgrid.vim
+" File: autoload/unite/sources/outline/textgrid.vim
 " Author: twatan
 " Version: 0.1.0
 "
